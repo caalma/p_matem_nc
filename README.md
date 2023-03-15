@@ -1,2 +1,4 @@
-# p_matem_nc
-Profesorado de Matemática - Notas de cursada
+# Profesorado de Matemática - Notas de cursada
+
+
+Apuntes. Notas. Fichas. Fragmentos. Recordatorios. (...)
